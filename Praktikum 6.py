@@ -57,7 +57,8 @@ while True:
         nama = input("Masukkan nama yang akan diubah: ")
         ubah(nama)
     elif pilihan == "5":
-        print("Program selesai.")
+        print("Program selesai. Terima kasih telah menggunakan program ini :)")
         break
     else:
         print("Pilihan tidak valid.\n")
+
